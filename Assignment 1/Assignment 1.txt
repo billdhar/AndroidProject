@@ -1,0 +1,14 @@
+Exercise 1 - Lab Exercise from 18-May class
+
+For your first application, do the following -
+
+1.1)  Create and associate your own app logo     [2.5 marks]
+
+1.2) Localize the application for German Locale,  DE-rDE  [2.5 marks]
+
+https://developer.android.com/guide/topics/resources/localization
+
+
+Completed!
+1.1> Icons are present and will be displayed on the phone and in the app.
+1.2> Localized for German and Hindi (nur zum Spaﬂ)
